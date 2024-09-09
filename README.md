@@ -24,3 +24,5 @@ data_segmented.tar.gz: https://drive.google.com/file/d/15rpygEhle2jubvuGA5MPW-4_
 Collab Data augmentation: https://colab.research.google.com/drive/1K-S0vpBSYl9zbo__XMzXhQuzNDEbcB8p?usp=sharing
 
 Collab Data normalization: https://colab.research.google.com/drive/1jA-VF3BmNdv05bfObv996nrmVxjQxn4_?usp=sharing
+
+Collab Data segmentation: https://colab.research.google.com/drive/1kZJ6ZDTx-r6EsT08QSIsvQAJKXavpZI7?usp=sharing
